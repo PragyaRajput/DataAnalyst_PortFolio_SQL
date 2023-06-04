@@ -1,5 +1,5 @@
 # DataAnalyst_Portfolio_SQL
-1_SQLPortfolio:
+1_SQLPortfolio (Finance Analytics with Advanced SQL):This project utilizes advanced SQL concepts like user-defined functions, stored procedures, and joins for finance analytics. By analyzing financial data, the project aims to uncover insights, enhance decision-making, and optimize financial planning.The dataset includes transaction details, account balances, financial statements, and relevant financial metrics.Advanced SQL concepts enhance finance analytics, empowering informed decision-making and strategic planning.
 
 2_SQLPortfolio (Covid Dataset): This project focuses on analyzing COVID death data using SQL queries. The goal is to extract meaningful insights and trends from the data, shedding light on the impact of the pandemic on mortality rates.
 The analysis leverages a reliable source of COVID death data, ensuring the accuracy and validity of the findings. Using SQL queries, the project aims to uncover patterns, identify high-risk populations, and understand COVID-related fatalities' temporal and geographical distribution.
