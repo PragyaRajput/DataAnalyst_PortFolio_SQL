@@ -10,5 +10,5 @@ Data Cleaning Steps:
 - Handle missing values: Address missing values through imputation or exclusion, depending on their significance and impact on the analysis.
 - Standardize data types: Rectify inconsistent or incorrect data types to ensure proper alignment with the schema and facilitate SQL queries.
 - Treat outliers: Examine and appropriately handle outliers in housing prices or other variables to minimize their influence on the analysis.
-4_Resume_Challenge_#4: Provide Insights to Management in Consumer Goods Domain
+4_Resume_Challenge_#4: Provide Insights to Management in Consumer Goods Domain<br>
 [https://codebasics.io/challenge/codebasics-resume-project-challenge/7]
